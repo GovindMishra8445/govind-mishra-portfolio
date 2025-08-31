@@ -23,5 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 # .gitignore me add karo
-/assets/Screenshot/
+# Ignore screenshots only
+/public/assets/Screenshot/
+
 
