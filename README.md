@@ -43,25 +43,25 @@ This is my **personal portfolio website** built with **React, Tailwind, Framer M
 ## 📸 Screenshots
 
 ### Hero Section  
-![Hero](public/assets/images/Screenshot/HeroScreenshot.png)
+![Hero](./public/assets/images/Screenshot/HeroScreenshot.png)
 
 ### About Section  
-![About](public/assets/images/Screenshot/AboutScreenshot.png)
+![About](./public/assets/images/Screenshot/AboutScreenshot.png)
 
 ### Skills Section  
-![Skills](public/assets/images/Screenshot/SkillScreenshot.png)
+![Skills](./public/assets/images/Screenshot/SkillScreenshot.png)
 
 ### Projects  
-![Projects](public/assets/images/Screenshot/ProjectScreenshot.png)
+![Projects](./public/assets/images/Screenshot/ProjectScreenshot.png)
 
 ### Experience  
-![Experience](public/assets/images/Screenshot/ExperienceScreenshot.png)
+![Experience](./public/assets/images/Screenshot/ExperienceScreenshot.png)
 
 ### Contact  
-![Contact](public/assets/images/Screenshot/ContactScreenshot.png)
+![Contact](.public/assets/images/Screenshot/ContactScreenshot.png)
 
 ### Footer  
-![Footer](public/assets/images/Screenshot/FotterScreenshot.png)
+![Footer](.public/assets/images/Screenshot/FotterScreenshot.png)
 
 ---
 
